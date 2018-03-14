@@ -1,0 +1,79 @@
+Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
+0,Eosrirgue62,21,Male,157,"Spada, Etcher of Hatred",2.29
+1,Seudanu38,12,Male,180,Stormcaller,1.49
+2,Iskossaya95,30,Male,81,Dreamkiss,4.64
+3,Undjask33,23,Male,114,Yearning Mageblade,2.74
+4,Istydil92,24,Male,81,Dreamkiss,4.64
+5,Phaedasurap84,37,Male,11,Brimstone,2.6
+6,Phistyn52,7,Male,167,"Malice, Legacy of the Queen",3.67
+7,Phistyn52,7,Male,1,Crucifer,2.5
+8,Iskimnya76,16,Female,142,Righteous Might,4.54
+9,Aestysu37,25,Female,113,Solitude's Reaver,2.86
+10,Aesurstilis64,20,Male,49,"The Oculus, Token of Lost Worlds",2.9
+11,Seosrim97,21,Male,15,Soul Infused Crystal,3.83
+12,Yoishirrala98,20,Male,78,"Glimmer, Ender of the Moon",4.28
+13,Eosurdru76,35,Male,131,Fury,4.87
+14,Iskossasda43,9,Male,36,Spectral Bone Axe,3.11
+15,Eoduenurin62,43,Female,92,Final Critic,4.95
+16,Idaria87,25,Male,132,Persuasion,4.53
+17,Ilast79,11,Female,141,Persuasion,1.46
+18,Idasu87,23,Male,30,Stormcaller,1.21
+19,Phiarithdeu40,21,Male,90,Betrayer,4.5
+20,Iaralrgue74,20,Male,62,Piece Maker,2.9
+21,Iskirra65,32,Male,169,"Interrogator, Blood Blade of the Queen",4.26
+22,Illycal38,20,Male,143,Frenzied Scimitar,3.52
+23,Iaralsuir44,24,Male,67,"Celeste, Incarnation of the Corrupted",2.78
+24,Lassista97,22,Male,52,Hatred,1.7
+25,Assadarsda51,20,Male,112,Worldbreaker,1.7
+26,Ilaststa70,22,Male,52,Hatred,1.7
+27,Syalollorap93,15,Male,135,Warped Diamond Crusader,4.83
+28,Lisopela58,18,Female,120,Agatha,3.69
+29,Chanossast57,19,Male,172,Blade of the Grave,1.01
+30,Marjask87,19,Male,155,War-Forged Gold Deflector,2.83
+31,Chanadar44,22,Male,8,"Purgatory, Gem of Regret",3.34
+32,Haestyphos66,11,Female,1,Crucifer,2.5
+33,Saedaiphos46,21,Male,143,Frenzied Scimitar,3.52
+34,Pheulidil31,21,Male,134,Undead Crusader,3.6
+35,Yarithllodeu72,12,Male,59,"Lightning, Etcher of the King",2.05
+36,Idaisuir85,24,Male,17,"Lazarus, Terror of the Earth",2.44
+37,Narirra38,18,Male,164,Exiled Doomblade,3.94
+38,Tyaenasti87,15,Male,5,Putrid Fan,4.42
+39,Eulanurin88,24,Male,168,"Sun Strike, Jaws of Twisted Visions",1.58
+40,Lirtossanya27,8,Male,25,Hero Cane,2.98
+41,Tyeulallo55,21,Male,152,Darkheart,3.76
+42,Farrian71,22,Male,160,Azurewrath,1.87
+43,Sondossa55,21,Male,5,Putrid Fan,4.42
+44,Yasrisu92,15,Male,127,"Heartseeker, Reaver of Souls",1.17
+45,Chanosia34,30,Male,42,The Decapitator,4.72
+46,Saerinu82,25,Male,62,Piece Maker,2.9
+47,Ilastilis78,21,Male,31,Trickster,3.08
+48,Mindosiast44,20,Male,179,"Wolf, Promise of the Moonwalker",2.29
+49,Aeri79,25,Male,21,Souleater,4.24
+50,Tyaelorgue39,21,Male,112,Worldbreaker,1.7
+51,Lisirrast82,31,Male,66,Victor Iron Spikes,2.7
+52,Lisast98,20,Male,26,Unholy Wand,3.34
+53,Isurria36,23,Male,100,Blindscythe,2.4
+54,Ila44,30,Male,75,Brutality Ivory Warmace,1.44
+55,Lirtyrdesta65,22,Male,113,Solitude's Reaver,2.86
+56,Lirtjaskan85,21,Male,150,Deathraze,4.95
+57,Halaecal66,22,Male,18,"Torchlight, Bond of Storms",3.92
+58,Ralasti48,25,Female,60,Wolf,1.82
+59,Hiasurria41,21,Other / Non-Disclosed,122,Unending Tyranny,2.06
+60,Raesursurap33,25,Male,138,"Peacekeeper, Wit of Dark Magic",4.25
+61,Frichast25,20,Male,30,Stormcaller,1.21
+62,Eronie44,21,Male,44,Bonecarvin Battle Axe,3.7
+63,Eosursurap97,31,Female,132,Persuasion,4.53
+64,Undossa89,30,Male,126,Exiled Mithril Longsword,2.39
+65,Heulaedru70,17,Male,67,"Celeste, Incarnation of the Corrupted",2.78
+66,Aerithllora36,25,Male,50,Dawn,1.96
+67,Siralsudeu54,24,Male,156,Soul-Forged Steel Shortsword,4.66
+68,Ilara98,34,Male,44,Bonecarvin Battle Axe,3.7
+69,Lisossanya98,30,Male,69,"Frenzy, Defender of the Harvest",1.79
+70,Eodainu45,38,Female,40,Second Chance,2.7
+71,Ilosianya35,16,Male,129,"Fate, Vengeance of Eternal Justice",2.73
+72,Eosur70,25,Male,144,Blood Infused Guardian,1.9
+73,Aidai61,30,Male,64,Fusion Pummel,4.59
+74,Lisossan98,10,Female,123,Twilight's Carver,4.38
+75,Undory40,20,Male,109,"Downfall, Scalpel Of The Emperor",1.21
+76,Mindosia50,29,Male,138,"Peacekeeper, Wit of Dark Magic",4.25
+77,Lisista63,21,Male,90,Betrayer,4.5
